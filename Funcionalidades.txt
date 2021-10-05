@@ -1,15 +1,10 @@
 1. Recibir un numero en formato string y convertirlo a int.
 2. Recibir dos numeros en formato string y poder contar esos numeros de acuerdo a las comas.
 3. Recibir dos numeros en formato string separados por una coma para luego sumarlos.
-4. Poder contar la cantidad de numeros en la lista separados por una coma.
-5. Recibir una lista de numeros separados por comas para luego sumarlos
-6. Recibir una lista de numeros separados por guiones retornar la cantidad de numeros en la lista
-7. Recibir una lista de numeros separados por guiones para luego retornar la suma de ellos.
-8. Recibir una lista de numeros separados por un delimitador de un solo caracter encerrado entre corchetes y retornar la cantidad de numeros en la lista.
-9. Recibir una lista de numeros separados por un delimitador de un solo caracter encerrado entre corchetes y retornar la suma de ellos.
-10. Recibir una lista de dos numeros en la cual exista un numero mayor a 1000 y otro menor a 1000 para luego retornar un booleano que indique que se detecto un numero mayor a 1000.
-11. Recibir una lista de numeros en los cuales se ignoren los numeros mayores a 1000.
-12. Recibir una lista de dos numeros separados por un delimitador de cualquier cantidad de caracteres y contar la cantidad de numeros en la lista.
-13. Recibir una lista de numeros eparados por un delimitador de cualquier cantidad de caracteres y retornar la suma de ellos.
-14. Recibir una lista de 2 numeros separados por mas de un delimitador y retornar la cantidad de numeros en la lista.
-15. Recibir una lista de 2 numeros separados por mas de un delimitador y retornar la suma de ellos.
+4. Recibir una lista de numeros separados por comas para luego sumarlos
+5. Recibir una lista de numeros separados por guiones retornar la suma de los numeros
+6. Recibir una lista de numeros separados por un delimitador de un solo caracter encerrado entre corchetes y retornar la suma de ellos.
+7. Recibir la suma de n numeros en los cuales se ignoren los numeros mayores a 1000.
+8. Recibir una lista de dos numeros separados por un delimitador de cualquier cantidad de caracteres y retornar la suma
+9. Recibir una lista de numeros separados por un delimitador de cualquier cantidad de caracteres y retornar la suma de ellos.
+10. Recibir una lista de 2 numeros separados por mas de un delimitador y retornar la suma de ellos.
